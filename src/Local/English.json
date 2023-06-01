@@ -1,0 +1,188 @@
+{
+    "header": {
+        "username": "Artyom Aleqsanyan",
+        "href1": "How to use?",
+        "href2": "My notes",
+        "href3": "Sign up to the doctor"
+    },
+    "bodyHeader": {
+        "firstText1": "Online consultations from",
+        "firstText2": "doctors specialists 24/7",
+        "secondText": {
+            "t1": "Consult",
+            "t2": " now",
+            "t3": " or by",
+            "t4": " appointment",
+            "t5": " from your computer or with our app, ",
+            "t6": " available on the",
+            "t7": " App Store",
+            "t8": " and ",
+            "t9": "Google Play"
+        },
+        "button1": "Enroll",
+        "button2": "How it works?"
+    },
+    "bodyBody": {
+        "firstText": "Sign up to the doctor",
+        "secondText1": "More than 1500 doctors and more than 50 different specializations",
+        "secondText2": "Reception at a convenient time for you, without visiting the clinic",
+        "secondText3": "Doctors with over 8 years of experience",
+        "secondText4": "We will clearly explain the cause of the disease and give a detailed recommendation.",
+        "button": "Enroll"
+    },
+    "bodyFooter": {
+        "button": "My notes",
+        "experience": "Experience",
+        "year": "years",
+        "doctorsbutton1": "View entry",
+        "doctorsbutton2": "View ruling",
+        "state": "Scheduled",
+        "sort1": "Sort by excperience",
+        "sort2": "Sort by age",
+        "sort3": "Reset"
+    },
+    "doctorProfile": {
+        "doctors": "Doctors",
+        "consultation": "consultation",
+        "minute": "minute",
+        "birthYear": " y. of b.",
+        "study": "1992 - Russian State University",
+        "calen": "Tuesday 03 March",
+        "entry": "Next entry",
+        "education": "Education",
+        "special": "Specializes in treatment",
+        "add": "Additionally"
+    },
+    "results": [
+        {
+            "id": 1,
+            "first_name": "Andrian",
+            "last_name": "Chiriac",
+            "profile_image": "https://api.allodoc.md/media/static/images/2022/02/10/foto_profil_1_hxKaH8hcsq.jpg",
+            "profession": "Endocrinologist",
+            "date_of_birth": "1978-02-15",
+            "excperience_start_year": 2005,
+            "price": 400,
+            "near_date": "2023-06-05T14:00:00Z",
+            "description": "Studying the structure and function of the endocrine glands",
+            "full_description": "An endocrinologist is a doctor who diagnoses and treats hormonal complications and their complications. Thus, he evaluates the work of the hormonal system and treats any disorders that it may reveal. After all, hormones control all the functions of the body."
+        },
+        {
+            "id": 2,
+            "first_name": "Zinaida",
+            "last_name": "Sârbu",
+            "profile_image": "https://api.allodoc.md/media/static/images/2022/03/31/foto_mea.jpg",
+            "date_of_birth": "1965-03-01",
+            "profession": "Obstetrician-gynecologist",
+            "excperience_start_year": 1991,
+            "price": 750,
+            "near_date": "2023-06-05T14:00:00Z",
+            "description": "Женская консультация",
+            "full_description": "Gynecology is a branch of medicine that studies the physiology and treatment of diseases of the female reproductive system. Thus, the gynecologist is the privileged interlocutor of women at key stages of their sexual life, from puberty to menopause. He deals with problems related to menstruation or menopause, contraception, diseases of the breast, uterus, ovaries, fallopian tubes and external genital organs, as well as female cancers."
+        },
+        {
+            "id": 3,
+            "first_name": "Irina",
+            "last_name": "Triboi",
+            "profile_image": "https://api.allodoc.md/media/static/images/2022/02/14/irina_triboi.png",
+            "date_of_birth": "1987-12-08",
+            "profession": "Pediatrician",
+            "excperience_start_year": 2012,
+            "price": 400,
+            "near_date": "2023-06-12T14:00:00Z",
+            "description": "General practitioner working with children and adolescents",
+            "full_description": "A pediatrician is a specialist who studies and treats diseases that occur in children and adolescents. It plays an important role in monitoring the physiological and psychological development of children and adolescents. He is also involved in the prevention, diagnosis and treatment of childhood pathologies that can affect the health of the child."
+        },
+        {
+            "id": 4,
+            "first_name": "Olimpia",
+            "last_name": "Gherman",
+            "profile_image": "https://api.allodoc.md/media/static/images/2022/02/17/gherman_bis2-min.png",
+            "date_of_birth": "1980-07-23",
+            "profession": "Pneumologist",
+            "excperience_start_year": 2004,
+            "price": 400,
+            "near_date": "2023-06-17T14:00:00Z",
+            "description": "Engaged in the diagnosis and treatment of diseases of the respiratory system",
+            "full_description": "A pulmonologist is a doctor who specializes in the treatment of respiratory diseases and lung infections that affect the following organs: lungs, bronchi, pleura (which is the covering of the lungs and includes 2 layers, the visceral and parietal pleura)"
+        },
+        {
+            "id": 5,
+            "first_name": "Angela",
+            "last_name": "Selivanov",
+            "profile_image": "https://api.allodoc.md/media/static/images/2022/02/18/angela_selivanov_bis-min.png",
+            "date_of_birth": "1976-04-23",
+            "profession": "Therapist",
+            "excperience_start_year": 1999,
+            "price": 400,
+            "near_date": "2023-06-21T14:00:00Z",
+            "description": "Therapist, general specialist",
+            "full_description": "Therapist is the doctor to whom we most often turn during our lives. He treats everyday health problems knowing our medical and family history. Provides personalized care for his patients, prescribing the appropriate treatment. He can refer them to specialist doctors when the patient's symptoms are no longer under his control."
+        },
+        {
+            "id": 6,
+            "first_name": "Nadejda",
+            "last_name": "Corobcean",
+            "profile_image": "https://api.allodoc.md/media/static/images/2022/02/17/dfgdfgdf-min.png",
+            "date_of_birth": "1976-12-26",
+            "profession": "Oncologist",
+            "excperience_start_year": 2004,
+            "price": 400,
+            "near_date": "2023-06-07T14:00:00Z",
+            "description": "Engaged in the diagnosis and treatment of tumors in the human body",
+            "full_description": "An oncologist is a doctor who deals with oncological diseases: surgical treatment, radiation and drug therapy, chemotherapy, hormonal therapy, immunotherapy and targeted therapy. He also deals with problems related to cancer or side effects of treatment: pain, fatigue, problems with nutrition, digestion, breathing."
+        },
+        {
+            "id": 7,
+            "first_name": "Ludmila",
+            "last_name": "Surățel",
+            "profile_image": "https://api.allodoc.md/media/static/images/2022/02/19/ludmila_suratel_2-min.png",
+            "date_of_birth": "1963-01-07",
+            "profession": "Ophthalmologist",
+            "excperience_start_year": 1989,
+            "price": 400,
+            "near_date": "2023-06-14T14:00:00Z",
+            "description": "Engaged in the diagnosis and treatment of eye diseases",
+            "full_description": "An ophthalmologist is a doctor who diagnoses and treats eye diseases. He diagnoses visual defects, prescribes the necessary corrections and can decide whether the patient needs surgery."
+        },
+        {
+            "id": 8,
+            "first_name": "Lilia",
+            "last_name": "Șaragov",
+            "profile_image": "https://api.allodoc.md/media/static/images/2022/02/19/lilia-min.png",
+            "date_of_birth": "1968-03-30",
+            "profession": "Cardiologist",
+            "excperience_start_year": 1992,
+            "price": 400,
+            "near_date": "2023-06-29T14:00:00Z",
+            "description": "Deals with diseases of the cardiovascular system",
+            "full_description": "Cardiology is a medical specialty that deals with the diagnosis and treatment of diseases of the heart and blood vessels. It is useful to know that the heart is a fist-sized hollow muscle called the myocardium."
+        },
+        {
+            "id": 9,
+            "first_name": "Elena",
+            "last_name": "Vasilieva",
+            "profile_image": "https://api.allodoc.md/media/static/images/2022/03/07/vasilieva-min_1.png",
+            "date_of_birth": "1962-02-15",
+           "profession": "Obstetrician-gynecologist",
+            "excperience_start_year": 1990,
+            "price": 400,
+            "near_date": "2023-06-09T14:00:00Z",
+            "description": "Women's consultation",
+            "full_description": "Gynecology is a branch of medicine that studies the physiology and treatment of diseases of the female reproductive system. Thus, a gynecologist is a privileged interlocutor for women at key stages of their sexual life, from puberty to menopause. He deals with problems related to menstruation or menopause, contraception, breast diseases glands, uterus, ovaries, fallopian tubes and external genitalia, as well as female cancers."
+        },
+        {
+            "id": 10,
+            "first_name": "Natalia",
+            "last_name": "Codreanu",
+            "profile_image": "https://api.allodoc.md/media/static/images/2022/02/24/poza_mea_jQHZDNe.jpg",
+            "date_of_birth": "1976-10-04",
+            "profession": "Psychologist and Psychotherapist",
+            "excperience_start_year": 2006,
+            "price": 500,
+            "near_date": "2023-06-08T14:00:00Z",
+            "description": "Psychologist and Psychotherapist",
+            "full_description": "A psychologist is an expert in behavior, emotions, and mental health. He interacts with people who are experiencing psychological difficulties."
+        }
+    ]
+}

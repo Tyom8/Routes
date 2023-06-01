@@ -1,0 +1,87 @@
+.Body-Body {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 100px;
+}
+
+.mini-Body-Body {
+    display: flex;
+    width: 60%;
+    height: 400px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+}
+
+.Doctor-Div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+}
+
+.Doctor {
+    width: 200px;
+    height: 300px;
+}
+
+.SecondText {
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 25px;
+}
+
+.Text-Body{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.ulDivs {
+    display: flex;
+}
+
+.spanDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
+}
+
+.li {
+    color: orange;
+    font-size: 40px;
+}
+
+.span {
+    color: #4F4F4F;
+}
+
+.h1Body {
+    border-bottom: 10px solid #FF9F28;
+    color: #4F4F4F;
+    line-height: 15px;
+}
+
+.a {
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 24px;
+letter-spacing: -0.3px;
+color: #56CCF2;
+text-decoration: none;
+}
+
+.decor {
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 27px;
+line-height: 24px;
+letter-spacing: -0.3px;
+color: #56CCF2;
+}

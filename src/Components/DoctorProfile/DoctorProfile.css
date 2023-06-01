@@ -1,0 +1,116 @@
+.allProfileDiv{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.allProfile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 75%;
+}
+
+.profileDiv {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: #56CCF2;
+}
+
+.allDoctor-Div {
+    width: 80%;
+}
+
+.Hrefs {
+    margin-top: 120px;
+}
+
+.Doctor-Div2 {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.rightDiv {
+    width: 15%;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.leftDiv {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 30% auto;
+    height: 250px;
+}
+
+.text-Div {
+    margin-left: 20px;
+}
+
+.logo-Div {
+    width: 150px;
+    height: 150px;
+    border-radius: 50px;
+}
+
+.Doctors-Img2 {
+    width: 150px;
+    height: 150px;
+    border-radius: 50px;
+}
+
+.white-Text {
+    color: white;
+    line-height: 15px;
+}
+
+.left {
+    margin-top: 120px;
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+
+.link2 {
+    color: white;
+    text-decoration: none;
+}
+
+.DoctorInfo {
+    display: flex;
+    width: 60%;
+    height: 200px;
+}
+
+.leftInfo {
+    display: flex;
+    flex-direction: column;
+    width: 48%;
+}
+
+.entryDiv {
+    width: 100%;
+}
+
+.entry {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    color: #56CCF2;
+}
+
+.cal {
+    margin-right: 15px;
+    width: 50px;
+    height: 50px;
+}
+
+.dataText {
+    font-size: 20px;
+    color: #504F4F;
+}
